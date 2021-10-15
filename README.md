@@ -1,12 +1,12 @@
-# YAPM
+## YAPM
 Yet Another Power Manager
 
-# What does it do?
+## What does it do?
 With this, you can toggle between relays, using only one button.
 
 There's also code for automation using a temperature sensor.
 
-This code was written to controle fanspeed of a 220v AC fan (which had multiple inputs giving different speeds)
+This code was written to control fanspeed of a 220v AC fan (which had multiple inputs giving different speeds)
 
 This project uses the following libraries:
 
